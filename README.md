@@ -30,7 +30,6 @@ The system uses a pre-trained MobileNetV2 model as a feature extractor and train
 - NumPy
 - Pillow
 - Matplotlib
-- sklearn
 
 ---
 
@@ -135,8 +134,8 @@ Predicted Disease Class
 Clone the repository:
 
 ```bash
-git clone 
-cd project
+git clone https://github.com/ketakshi9-alt/Plant-Leaf-Disease-Detection-using-Transfer-Learning.git
+cd Plant-Leaf-Disease-Detection-using-Transfer-Learning
 ```
 
 Create and activate a virtual environment:
